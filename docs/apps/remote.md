@@ -21,3 +21,9 @@
 指南中带有 <sup>EULA</sup> 角标的软件代表是 [专有软件](https://www.gnu.org/proprietary/proprietary.html)。请自行斟酌是否使用。
 
 :::
+
+###RDP协议(连接Windows)
+
+###VNC协议(连接Linux)
+
+###SSH协议(使用终端交互Linux&UNIX%BSD)
