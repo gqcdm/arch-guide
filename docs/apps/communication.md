@@ -147,6 +147,24 @@ QQ 在 Linux 下确实有官方原生的版本 `linuxqq`，但是体验极差，
 #### 其它版本
 
 以下为其它的 QQ 版本，但体验一般：
+- [`icalingua++`](https://aur.archlinux.org/packages/icalingua++)<sup>cn / aur</sup> —— 第三方全平台QQ,拥有基于 oicq 以及 Icalingua 自有协议的后端实现的[electron](https://www.electronjs.org)程序,[icalingua++](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)<sup>GitHub</sup>
+
+  :::: code-group
+  ::: code-group-item cn
+
+  ```sh
+  sudo pacman -Sy icalingua++ #更新软件数据库并安装icalingua++
+  ```
+
+  :::
+  ::: code-group-item aur
+
+  ```sh
+  yay -Sy aur/icalingua++  #更新软件数据库并安装icalingua++
+  ```
+
+  :::
+  ::::
 
 - [`linuxqq`](https://aur.archlinux.org/packages/linuxqq/)<sup>EULA / cn / aur</sup> —— 腾讯官方的原生 QQ，体验极差
 
